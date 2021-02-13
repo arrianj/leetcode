@@ -9,4 +9,4 @@ def test(nums):
 
 print(test([2,3,0,2]))
 
-# 28 ms runtime, 14.4 MB memory
+# runtime 28 ms, 14.4 MB memory

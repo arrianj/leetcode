@@ -9,4 +9,4 @@ def test(address: str):
 
 print(test('123.123'))
 
-# 20 ms runtime, 14.4 MB memory
+# runtime 20 ms, 14.4 MB memory
