@@ -1,3 +1,5 @@
+# Running Sum of 1d Array
+
 def test(nums):
     ans = []
     for i in nums:

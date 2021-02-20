@@ -1,3 +1,5 @@
+# Richest Customer Wealth
+
 def test(accounts: list[list[int]]):
     maxwealth = []
     for account in accounts:

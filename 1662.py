@@ -1,3 +1,5 @@
+# Check If Two String Arrays are Equivalent
+
 def test(word1: list[str], word2: list[str]):
 
     a = ''.join(word1)

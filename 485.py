@@ -1,3 +1,5 @@
+# Max Consecutive Ones
+
 def test(nums: list):
     count = final_count = 0 
     
